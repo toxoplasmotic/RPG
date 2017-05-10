@@ -1,4 +1,5 @@
 # RPG
+Source code for the RPG (pronounced "rippage") progressive web app.
 
 ## Build the app
 
