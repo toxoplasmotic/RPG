@@ -1,0 +1,7 @@
+{
+  "name": "RPG",
+  "short_name": "RPG",
+  "description": "Web portal for RPG.",
+  "start_url": "/",
+  "display": "standalone"
+}

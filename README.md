@@ -1,2 +1,19 @@
 # RPG
-Source for RPG (pronounced "rippage") web front end.
+
+## Build the app
+
+```
+$ polymer build
+```
+
+## Launch the app
+
+```
+$ polymer serve -o
+```
+
+## Run the tests
+
+```
+$ polymer test
+```
